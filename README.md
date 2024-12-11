@@ -10,3 +10,6 @@ ggddgd
 
 fsfsfahjhjj
 
+
+
+git config --global credential.helper store
